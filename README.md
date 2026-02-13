@@ -6,6 +6,6 @@ The dashboard highlights key metrics such as total customers, churn rate, and ch
 
 The goal of this project is to help businesses identify high risk customer segments and take data driven actions to improve retention. This dashboard can be used by stakeholders to quickly monitor churn trends and make informed decisions.
 
-# Tools used: Power BI, Excel
+# Tools used: Power BI, SQL, And Excel
 
 # Key skills: Data cleaning, data modeling, KPI tracking, churn analysis, dashboard design
